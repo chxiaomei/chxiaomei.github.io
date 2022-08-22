@@ -1,161 +1,235 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>hexo</title>
-    <url>/2022/08/22/hexo/</url>
-    <content><![CDATA[]]></content>
+    <title>test</title>
+    <url>/2022/08/22/test/</url>
+    <content><![CDATA[<p> test — test<br> <!-- 阅读更多--><br> test</p>
+]]></content>
+      <categories>
+        <category>随笔日志</category>
+      </categories>
       <tags>
-        <tag>hexo</tag>
+        <tag>diary</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>下半年计划</title>
+    <url>/2022/08/11/%E5%B9%B4%E4%B8%AD%E8%AE%A1%E5%88%92/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉，您输入的密码错误，请检查后重新输入。" data-whm="抱歉, 当前文章不能被校验, 不过您还是可以看看解密后的内容。">
+  <script id="hbeData" type="hbeData" data-hmacdigest="28a383f585186c405202c24a8550bdb3964b4c1bcb88ee33e90339c6e6fb7aea">322fb59090cf148115791d651d5a7dd45a5056af1140389024c66a081086d92df9433cc721fc6a9d5787c7108cc44fe993fce8e446e77b7c0e7bf0d204fdc2da14427093db0e69b40a40a512e6fb3e36f8f1944a99728434b2aaba9e676c6d231e41fb78552bf06ba5cd846bba65eb78384bce3563faab4fd17607ecfaec1829ee4963bc451f3ebbca27f45f2da4e2fc64633990b5908ba384474cd0a3b3eb57b9283024981f1dc5b3e89a9bcd08a1aa373d107fb14ea2873a47b1b0e843c906b3b10a7d8298997c09b378e39450666968490e9d80adb7ffcb9ab0ccb18f0def9c4b512991df4536b225a301c46cba795334007e8a596468b9edee90f54d3aee32dda3909a0df3e3d38eb1fa6a1bd091c7d6f1a41db3f6b10f02ef323cb593a4cd1206c6b5e984e112bef603a8f166bfbbfed783f56e21dced7930f10c35445de539732b553da42157e6807423c9ca1892cd4d50633aa3899f1fa1626800cbe25addd67eb680fe1394681fbdd0e769749ba32b71f990e586f10f32902f1954df8386f17d7634eec96293ae0892133495e13704f616a95526a8d0d61ab9d6402fdc3ce4d95f348c82fe5dca7dbdd61fb8516ef4a926460d51d2ac65b67a0188944b4ce0d20c73306fa190f00e6a780b9c4dc84f60f39eb2877f791b9634cb93d02931870ab9111ffcb8df6bff849796ff9bb984e5a8007defeae7da956dce10d5758fcbde038c8a7fa0d810387e238c66ad7cb2543e97dfd210bc9d60561ea96b9db9197f4014efd0da382bb2d9664e5e12f451730939d9e9cf1d0b65c6a433782e32f248d6ff75975777df8d098036041825296426eff68123ef54f57cac655bf7440319c8f4f41744700e5a580780f6869e88855445587d6ec95169fd8cfb45e3219a6cba0de4665b1ccd6ea0563857c4bb3b205231149a153a22ac866404aec39dc994409c536e50486308368a4f83e7c8bc16583f21b6b1588db6fbc82ff4c2e9c0923698171695371b44243eb7d28b950c347ba5bb150696b8eba3a9950a53367bc336677016a0942ed1723deecc12c58fc864a0dc55ff1a82441a68f5727b628423a659b98b27818b3052342ab0dfa160d86b8ca6f6add0d79f89ca1fb60b22e97d75442a246a41f81dba579264c8dd5f5bfd078c79397d75a2fe3971d2e5a6cbaa5849895d98a3836c66c0f42ab02f3d9a0d205c371e4622f859afb1a19b03428d143a8b1b17b598252b7f0863abcad5f71bcb3ba1044e0b9c3d31106cf0eb998eb62bf610474c63a2df2d4e34bbe61e90cebb69ece62a2d88b9a4ba03107fb297fefc8315991f0de55560641d23de9b65ccca6ce6d141b06ad0e309923932f4a1801d9a86674cae2a0a5e5e2ec5b1816e7390d29c909bfe935d89100f31c969d279ce418a5315859864d82afc15169a59eac01b1c334c55e81ef56b487e634ca0761691e7304ba1373f0b6d2f6c6c8f84fc9bd97bf2a3c2a278f671fbc20025f8b4eedf1341ae7fee9a3baf03748de2699c1c96bc6bbc45378bcaff6ce4aed8f0e28a47ce1094ab7db2c5cc77cbd49d68f3fcfe877f811d1f1c19121674c67b824f1df134bacbfa09cb9240cdc4396f106458cab4cf42fc37f2a450158abc357439841238b9395775c27e1739908d82ed948717f07b5e87d104d2daea8936e60ee5b2c9f9119c566699b8ad074f16107eaac5907dfd1844d36012db15bb366a9cbaa07e204f2469a03c327a99685be8e00ac75ce7fe69c7f84057e9ee</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">当前文章暂不对外可见，请输入密码后查看！</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>随笔日志</category>
+      </categories>
+      <tags>
+        <tag>diary</tag>
       </tags>
   </entry>
   <entry>
     <title>第一篇博客</title>
     <url>/2022/08/11/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<p>博主即凉（将改造自己进行到底）可以作为参考，她也在学习英语，并且在写作、做自媒体</p>
-<ol>
-<li>刚开始演讲都会紧张，可以把脚本写好，根据脚本对着镜子或相机反复的练习</li>
-<li>写作：记录学习过的知识，或者感想，如：昨天做了芋圆，拍摄的过程和感想，都可以记录下来，或者是当天学习的英语知识<br> 拍摄的视频和写的东西不一定要发布，发布的东西要认真审核，对自己和他人负责</li>
-<li>每月看一本书，接下来把需要看的书籍找出来</li>
-<li>进行精力管理，即凉分享了一个文档，可以测试一下自己的精力高峰，在进行学习的安排</li>
-<li>学习英语进行到底</li>
-</ol>
-<p>把需要拍摄的脚本，可以整理成文章，发表在公众号或自己的博客<br>写作（记录的任何文字不发表的，可以发布在自己的博客）：锻炼自己的表达能力和写作能力</p>
-]]></content>
-      <categories>
-        <category>随笔日志</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>下半年计划</title>
-    <url>/2022/08/11/%E5%B9%B4%E4%B8%AD%E8%AE%A1%E5%88%92/</url>
-    <content><![CDATA[<ol>
-<li><p>培养一些良好的习惯<br> 睡前：听听力，或者看英语短文，培养阅读习惯<br> 晨间：早起，听听力，或者学习开言英语<br> 阅读：一个月阅读一本书，前期可以从自己感兴趣的书籍开始，习惯之后，尝试阅读不同的书籍<br> 写作：尝试记录任何的文字，如：今天学习了英语的那些知识点，从书中获取了哪些知识，听力听到了什么，有什么感想，今天的心情，学习的状态等等，不管什么，全部记录下来<br> 演讲：练习演讲，刻意练习，拿着写好的脚本反复练习半小时（每天），对着镜子或相机，克服自己的恐惧，顺便背一下台词<br> 瑜伽：开始学习和工作之前锻炼个 5-10 分钟</p>
-</li>
-<li><p>英语读书软件-练习听力及阅读能力<br> 蒙哥阅读器（收费）学习英语，从四级到雅思，词典支持英文版释义<br> Apple book iPhone自带的软件</p>
-</li>
-<li><p>书籍<br> 《卡片笔记写作法》<br> 《The Four Agreements》<br> 《Think Again》<br> 《终身成长》</p>
-</li>
-<li><p>阅读后输出<br> 使用 obsidian 或 nation 记录</p>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>随笔日志</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>第一篇记录</title>
-    <url>/2022/08/11/%E7%AC%AC%E4%B8%80%E7%AF%87%E8%AE%B0%E5%BD%95/</url>
-    <content><![CDATA[<p>很感慨的一天，今天想写一篇关于《超级学习者》的读后感或总结，翻阅了以前的阅读笔记（思维导图），无从下手，就去油管搜索关键字“超级学习者”，发现不少博主讲解这方面的内容，思索再三选了一个叫“即凉 Lion” ，之后又去翻看了她更多的视频，发现以前的她就是现在的我呀，内向，不会表达，因为疫情不想找工作上班，想自己创业（幻想过创建一个公司），消沉了一段时间，最后决定进军自媒体，拍视频，学剪辑、学英语、学摄影、学习怎么演讲…简直是一模一样。我现在就要走她走过的路，希望从她身上能学习一些知识。<br>接下来需要做的事情就是将改造自己进行到底</p>
-<p>【读到好书就应该慢下来，去吸收里面的精华，关键不在于读了多少书，而是吸收了多少<br>英语的学习需要学以致用，才能提升《Learn How To Learn English》<br>“学习不等于抄笔记，抄下来不能等于记住，记住不等于理解”】</p>
-<p>一直都知道看书只是在抄笔记时没用的，也了解费曼学习法是把自己学到的知识进行分享，那么演讲就是最好的学习方式<br>看了书之后把感想或知识点记录下来（不是抄笔记，而是通过自己的理解写下来），然后进行演讲，演讲的方式可以是自己通过手机进行视频录制，发布油管但不公开。脚本可以发布到公众号和知乎、微博。公开的视频可以发布 B站、油管、西瓜视频、头条</p>
-<p>不要停留在想或说，勇敢的踏出去，第一步往往是最难的，后面慢慢适应就好了，慢慢培养成习惯</p>
-]]></content>
-      <categories>
-        <category>随笔日志</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>将改造自己进行到底</title>
-    <url>/2022/08/12/%E8%9C%95%E5%8F%98%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
-    <content><![CDATA[<p>昨天看了即凉的视频，还是想法多多，有种相见恨晚的感觉。今天开启蜕变自己的第一天，先做好规划，并测试自己的精力最高峰，后续好安排任务。<br>昨天晚上跟猪同学说，是不是应该按上下班的时间来安排自己的一天，他说，你现在是老板，也是公司的第一个员工，接下来应该怎么做，好好想想，I’m a freelance… </p>
-<p>终于知道了剪映批量修改字体的样式，再也不用每输入一句话就去调整字体大小、字体样式及字幕距离屏幕底部的距离，剪辑完视频，洗澡的时候听《开言英语》<br>Mess up 毁坏<br>造句：Don’t Mess up my hair —— 感觉这句不太对</p>
-<p>洗完澡播放了刚刚剪辑的视频，感觉今天录制的视频没有周三那天拍芋圆的抖了，转场剪辑的也比之前顺畅一些，明天学习一下转场视频怎么过度</p>
-]]></content>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉，您输入的密码错误，请检查后重新输入。" data-whm="抱歉, 当前文章不能被校验, 不过您还是可以看看解密后的内容。">
+  <script id="hbeData" type="hbeData" data-hmacdigest="3cb355b58987dc12c95c478df35d53e509070b9241cb94bbcb77541cffbf9df9">322fb59090cf148115791d651d5a7dd4aeab9caead0a5cfe41a6f6fc3e1d7b9d1eef3f25f5d9e1fc14a9cb281533599ce8f0ae8b6d703fa1fde2ce6ab735902e5a895f65287ea5a8a2c96b35aa3686438221e5dd0c639d6abe87ee900d34e05078cce5cf5c59f5ca1bb1d4795b26272fd29ecf468277cad968088e721d643574d68b8561b230ebe2ac51be92036a232387cd8be5f0ac714e2ee74d80f73021730f6001e2bd2a8b8f41b84384cf5c75f0ad77bdbeef5ed5b8f221e5823bf6921ff5b158f9127a58eb8c1a1c52e3734b70ee6503ea89e31e1c143ec348f226ab874876f606c82d1e51f2bbd7b8a8e45251f3b2a632ee0aefc1ed6d22fd8c03fd8553f9acf964321a4bd529338168cd7c3e9a03fa6320fcb4ef9a974b0aee6dbcd1ab74bbfafcb8ff450a2440836298b381c9bf66c58c3c6e24b0e1249bb85f6e531dfcc883c1bb42b4d797fa3970666d788d20cee47ea0841052d32bf18b8763b1495c734d14a8e9fcf5ca78b2ed00f27a51588f232845c9634cdf7606760cd4741d4b643fb92521bf23e5d8b0b13ca6245c3d57dd76f384a3956212cde100db0cc202c176d21ad5b1b520fb30d5aa64c5a54d11b35ddaa35581071e8e85ffc87b6b22b91651f21782ee3bdeb89e0d724ad8fe6edadbed59f91adaa91bb826f224ebacb5934ac69eebba99f19113b2ebb3772f6f00c59d21a7c14e85f3dd2b0e81766078428ec9469918f2cedcb35f945798a5383d52333b787f09c10451db8b11c2bfa732b68d96db1b7268063eb48a5d76c780ce462062c1c94ead485c493280bb66443187a2c5574b926b2b11d7f8760988aa66ebeec7073bedbefb6c99c47c51f813fecda521019612071e7ec612664a80a11c40c6ec30e626395680b8d8b5c3db0710bdae4d4e56f03100af94934875c9f0168df3e2f421a06bb9e5e1881b3a1b460456ab41fe8a061bd9744c9825b04a944a30d9baadec733dedcb6674d6089692f1790cf49981adb60dcbcc0d6eea2ba4e927ddf124858efdea9c1a174a3adcace4f19426ad09f36769cb088fd7346521891e4a3d4d190307cd2bb5565e674694abd98e3b11d5c9ff00d6e53723639a55a4e772a31238f1f153e7239439e4638aa8b10b3abfa41e7f1c3f6163ba45d934244d2e74bbb190ced01db4e585eee31cb2b43b305adc6aa351f524997b2bc376341c2269ff5e0a58bbc2eb418c5406be1bcc8164f44229b895d7c3c819ae1a3a733066207e64164da2dd92ed7063e911ce29cba8c9a446a8763b5895112ede52804411f9b4203827a21cf2b658fd2c8d9c15beb0c4e0679497950a823923625f1c236f28e886814373061b9d0d44eca55056096374b42f363488e73a0ee418c2bfd89fa52d090473d542070aebfc27e1818b74cf5f212f9390fc7fba5f65c207574e3fcfad082a2fc00306c282565cf75c6afc4495f22fbf82cb2dc05e</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">当前文章暂不对外可见，请输入密码后查看！</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>随笔日志</category>
       </categories>
       <tags>
-        <tag>日记</tag>
+        <tag>diary</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第一篇记录</title>
+    <url>/2022/08/11/%E7%AC%AC%E4%B8%80%E7%AF%87%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉，您输入的密码错误，请检查后重新输入。" data-whm="抱歉, 当前文章不能被校验, 不过您还是可以看看解密后的内容。">
+  <script id="hbeData" type="hbeData" data-hmacdigest="a04f11b63bbdb29c266f30f65267b04099b5f258312d2a0e8bec4f19711c445e">322fb59090cf148115791d651d5a7dd4191886320359a127d46162380185ffdca470a15f189e83aef442f71862c4f0097845478d7bf7339c5d639a58b84774f8b656454eeb74d871b3e9c767d3ca841241d846f478376b7bd4a2d7ccec5d7c6d934279af3d0967cdcc93340950bca7ae4a780b298621725ce8526dadebcf825f2d6e5606a1de3e8509b16624179b6c83ddb3f90acd8f7959050b78c7210080d52fcc098ac8d08e8181255ee1f064d5a542d420a6fe04b0bfc74a6de6dc28618ca06a54a7ab3ea218821f4b237e477e64f807a0bfc9d46d04756f3431fbf89eca23217e6f26f8e743f043e3b91e18ab205d0f888ab1d33c5f44616579928e2c8fcfc6b4826c6e0989a60e810b2e56dbf0ec541480552fe49d8f45adf2ba8328c32cdbcf037cdae18d60fe567c7a172e12cae0d168c8006684c373eb8c189535c8d84e317d73b41640ac530f81ed1257612acd9e65615163508252e0314fa90c813a0cdddbb008f21443b413fc609eabc447e8dc78a04c19c41099571ab2c3b03d755c29e95ffc46c3282e05ecd99e965d11eb01cccc36457e20ef28288a01254308c426be6edee9039dbf3048cdf265329899ca97689f79acbf0e62c721c9cf4638adb626cb821e5c203e3fadd5b49a487a85c7b6bc56a2cfb8a6b176a3b6781cfef1864ac516b438adc9e5925acb7a33513535b8f8459a7fdb95b5e3bfb4f6c4c4cd4605d3a45add3538d8137c2ff6b550053661b9a4831db18637322feb43d6dcd5b8e4a4e8b8eccfec836f6af345e4b1188f78c08251f39535b0b332ea1cbc7712b741968e979b1cfc0ac5d935dfcb7b86ae2fe12a3cdaf7140f649a8e9a6963e57e1be8f91ae42f9384b8b2ee7835b3fbd38b17e1fc1e85a8256d5dbd61dbfacfb581991f09bf949e0e80322b3e788779f2c3eaf5e7fd324953364a72997d3a17b799701fc29bf77fb7b19cecd44473e3cee5f18ce713f93a754dfb570cb95f4f5d9ee564887c09d979649623eec20a8753b8aa89784dc686949d8d96a120576400a9667cc768a247c520684134352f7164738a39b60ceca9868796dd9fb7aace57b6d8f6f2745a810cd87924687ef1f8bc55d647961b3af9c359d304818b40fd4606a6261d8c0094178eb4d8068fecb287c688b4f627f0a590d05184fa7f7b353dee8556e92bfb16ea0dbd8c8aa6a478912491afd8cc9e06d33d31222d2d90da747367dfce3669f3ec690680d717267d1bd2f8d8e89fa6c21631bce5abb784d25999d6d56fd31ce663d5a4c527161cbd855c0f667eccf873c25be7f6157c372c8032d7d580845a75c7a3fec6385aa4c091d626605ec60d07b2d8efa92014bc17f7d07400188b58ae1c93d9493b9d4ce5702f767810ad0990bb7ffd0f8eac87f9d6667276070f977ce279fd72386418e8fe42661cde8a1d1fa27c43531570e121005fae7302ddc4ccda7c66cf7d65baa59ee18ced226df6e61a2f4c18697d9d4ee0272a031cdf4ccc7cc1e9a9cc993f00fddf56a31d49fa789fff546f945330003321a70e9eb98bea2e606dc7b801409532695747255ee15e88392a319c674e4374041f4725174a1be1df28bf287ac2ab8b3cbf317215f90363427c29f897b9c89d473a3fa43bc6ce95e119d40f414ad8b4a2479b7a22897d335809c1c0ee38ffedb4d0d65f15af8cc7872593f5f03e511b81b9f82a873cdf9537a6eeb12cd8ad4d9fb603930634da9824a81eb9107a134a19dd7f72ba15448e90b22d9bf275dce74c7850ec199697bd68d54071c0d8e55d9cd08475f1fc0c2a1aa96519c78108c3bd7f73ebba8ff3512d5b8b38d1e76e3bf9ba361e50b4f62153379e65aa076f928505e43932b4e1f79e62c67ec2c234fadc2788e8ebae50d524e93a7ee49c03348f95b5ac7aa9fc995c36110c6705da7e59500d16bd360b4533929c10e382c2e615622f0216189f7e17714d43a5f801865965682c58e739ac043501b81b5f22be98464dc3c700c767a3e6037a1adb30523f5c7bf0d4f22ac130392760e30212de0d82af80d83db2424ed8619f1246106ab9dd3044be224b8dcbab5f01db32a4fadd417c6011419d70623953f0fb572b75c6795934c234e79d92092422329e80a87c936c19aa7d798f9d71403e6b7c3e9b86f12b17818fe918dbaae90b2794ba02a372ad091503cdf2573934de44e1aba4060d742921d4b2c89cb90f06e46acc6f119ee2e17cab19454b442e9e3c54a407b2e1df344f4860ff616ffebf4ec3f5b79250712ecf247b8f2e3e4b871977105b967375dfc70fe811050e44e45549ae5266b2c80c870635fa0a2a05e87da79b98719c89dd7c77bf8ef54086e88f295709bb6d4741e6df1876c9c835e87f6df493142b3aa02d3c9c8cd80e401ee4359a6545d1947c7a0e10fa6c484a074470ecf2d744a9720a64ef7e154658ea76a2ce177800cd16a143c60161bf8f379d5f753248bf101e48daad6e0a018982dfddbdccb77e86cf0af89ed933543b20f9943222d6f00ec2332611bc1aa623defc97f9cd1c85f18519f92b5ba0345f1523</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">当前文章暂不对外可见，请输入密码后查看！</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>随笔日志</category>
+      </categories>
+      <tags>
+        <tag>diary</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>将改造自己进行到底</title>
+    <url>/2022/08/12/%E8%9C%95%E5%8F%98%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉，您输入的密码错误，请检查后重新输入。" data-whm="抱歉, 当前文章不能被校验, 不过您还是可以看看解密后的内容。">
+  <script id="hbeData" type="hbeData" data-hmacdigest="548747b41f55ac28f61d952fff8d435a5c4064e4ce8d9782d67919e22f168cd8">322fb59090cf148115791d651d5a7dd47317b48b0d5c7238f5cadf26d071dcb3dec08c91a6b85c61468d41db6302e821560c2ad66127106c75ff1bb5942db0ebea43950ba8d0274b8585f0016663c1e809af118ac2cdf0457f296ad5a6d1cff8ebdf4fd7e519d0da8e4471d6eec615386abd5d764bea63965da4a7fb63cb7d47e974605b203591ef6dc1051098dc6ad1bc6f9dbc1d352644b80f906de48656835091c3df8f61e333288451d997e3f105e6553b7d166697b3fded330ba1a00c6ec7f8a581c57cb5f910bf7b8b9af900773e3b9fd1a7ab226c07521b10f8fce67818b66af3b7a371b37ab570f913a606036c705374b8c3c72fdd79e1cf1805bb039ed3e51eb19ac425c81b2a03a298b37be8022f36f9da9b29c964f036ea81b2a84e7ed53810f0831f27690433680ae89d8395d87dbd88d9defae5c699427d511f48a67c0c54cc68e5d394c1c6951a8524c2225f52f9f78a6646fff63aa922c6b3907c34d6656bac7e75659ae2e390d0732feb792589947c1caa6f26954dbf5134edfc2ddde9c36d2e9857b6fa4b1ec8bf9b31dfb040cb8a70231fa808912aeba7883969185e4b3a5e4811691210478815847364c9635c3fe851089c5af42f14f3e418b5bfbc4f4c97af3013902c7c2b6a3a7e5a7e12a67f8ccc7fb64835654fd5489c42d3911bfa65815cf397552599ba0cc4f92d57cb2a987c6ae9b95baba5532ca9ebcf6bfdf3c3a95b1f6a599c86ab56f1739dd7915f2f3661c795c4ebb1b5547a30281657f34a7c2453f1b1f713cfe49329a6d7ace96d397892ceb61c36421f0aa0e7018594965c4bddd1babff9e000992b10ba1e28ac16874a07683c9bfee432e9cf73dd8452045fc73d45cf3cad6dc56f864fb0979bbffb0071b00615eff76673417f3e59d9fffcec7f43e432d5a4cd55a29882e86d307b8c1a0b3f8a9d8fd4c4ef179fa588f4a5ee16a5129ef630cea15da6d11138917785fb06625038f5e80d751f2fe7f85bb97f878a0fe121acdf1ab054f97e503b5b92d5090cba5580f11e796d5d95185d6fd486bb3775cf1ae0a6e185d088bcea28a7faa6469ae4d11113d2c6baf69f3d7b6bd004ba98ef98cae7c31951b552b54367b7be19242181102576dfb1245b82809e2767bba68cb2981b1053c2df9b851b7e6c48504f31cfc0885250301c170800b15b6a05eabd6a9d5925e39090650512263f3176c4fcb47d7e9da8cd25e0086889c9068b9edb2b04582284f6ef4f1785840a4e8c1a3c84983c527332a034285e021b03106be72060c8666237eee04653e11c9a03a8ea434df9b22bb5f72147ce162759fce78ea4ea18e6d6dcefe5567901084d81caf5b0f024ef7a41e1c0a43a9931be877caa52d644a358bf7a1c8baebb5405ece605</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">当前文章暂不对外可见，请输入密码后查看！</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>随笔日志</category>
+      </categories>
+      <tags>
+        <tag>diary</tag>
       </tags>
   </entry>
   <entry>
     <title>蜕变自己的第二天</title>
     <url>/2022/08/15/%E8%9C%95%E5%8F%98%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
-    <content><![CDATA[<p>距离第一天已经过去了三天，发现了连续好几个周都是周五开始放松自己，周末两天无所作为，不过这周末好在拍摄了两个简单的视频是《懒人版盐焗鸡爪》和《炒算盘子》，拍摄和剪辑都是极其的耗时。这个需要多练习和学习拍摄技巧及剪辑技巧</p>
-<p>【新技能】开言FM：如何外国人更想跟我们聊天</p>
-<ol>
-<li>How do you feel about it? </li>
-<li>What do you see it?</li>
-</ol>
-<p>【任务】：</p>
-<ol>
-<li>学习拍摄技巧和剪辑技巧</li>
-<li>美食的制作，需要更多的想法及更好的出品</li>
-</ol>
-<p>今天学习了词根 ag，并且查了一下《英语词汇的奥秘》，里面有一个读者评论里说到为什么有些人说不需要去背单词，而他的观点是需要背单词，原因很简单：倘若我们的母语是英语，当然不用去背单词了，通过阅读就可以进行学习，但事实是母语是汉语，在没有词汇量的时候直接去阅读是痛苦的，要去真正开启阅读之前，至少积累到 2W 的词汇量。一个词根能延伸出 10 个左右的单词，今天背了一个 ag 的词根，花了45分钟，需要查阅音标，书上虽然标记了音标，但是还是有一些不会读。当学到第二个词根 agri 的时候，发现太难了，除了 agrology 有点印象，其他的一无所知，还有一些在单词在 <a href="https://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/motor">https://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/motor</a> 这个网站上搜索不到，像极了词根加一个已有单词拼接而成，如：agricorporatin 翻译成：农业综合公司，因为 corporation 是公司，神奇的是这个 agricorporation 在有道词典都能查到。背的时候看着变扭的单词，一度怀疑这个背单词的意义，内心觉得变扭，又想放弃。告诫自己在词汇量贫瘠的时候，先不要挑三拣四，先把词汇量积累起来再说。凡是付出的努力，都不会是白费的。</p>
-<p>《终身成长》：固定型思维模式的人面对夸奖和肯定标签，害怕会失去肯定他的夸赞，面对否定标签时，会害怕成为标签定义的人<br>成长型思维模式的人是怎么面对夸奖和肯定标签的呢？—— 忘记了，看书的时候总是能醍醐灌顶，但是合上说就完全不记得了，这个一直困扰着我。<br>面对否定标签是，他会激励自己，从否定的标签中查找问题，然后解决问题，帮助自己成长</p>
-]]></content>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉，您输入的密码错误，请检查后重新输入。" data-whm="抱歉, 当前文章不能被校验, 不过您还是可以看看解密后的内容。">
+  <script id="hbeData" type="hbeData" data-hmacdigest="c27214409464b2269760cff5b6152548473ff8ca683d69f9ba47d18282eee561">322fb59090cf148115791d651d5a7dd433d61fb18947f11d9e018045205f57c3160688920f2e80e8def6160f6c36fef74aee4acd9a09f03ff2911dd9a6820c04d9c8a7ad0e27f9a5657e881064211091e5ed172dcc0f3d6ccb9b4b56c6ed5ac99d514a53e9ed3641e06e3ce144ca729dff8e354d4ecc73159102a00ef84c51d43aba5a7968c9344674f83f8f60b273a111647f935ee96f8cea236953595bc299e675415d905d2c5ff8db972cc4d2786d52cc7cfc0c355846700b2755eb7d0c9d04422826a79b415ecb36e14e555fc7083ceea3b699824126edc2b9bd226ed2c06727af748d59a0f53d7434c44391687809b57e5625f1d012f8411f23cb471038207f5f95967302b4f9894f32ecf401ac81966a460bf03ca13bf8bc1b206310f11b241912bd093f81eb1b11b3798da772989afc966e4a42a0b44539c0ecad36e2fd48b0ae350ba0169b58432b6e3f9fd728084a8f747f6377b2cce1fb20f723d467608ab64db7f2bf28e16542b4c1082b7167d1120eddd06d81de24d0bb41c51f51c8cae60d324d5e0c7f0492039087454b017d9ce67fe62f4896bace2be4622782d5c409b627becd9e86bcb49627909eedd28b40b96e879dde719cf8d14f4719ec09a391e5361e4a252db2a55d08d06d2d4e2517a1802d48d49931bb47d4f884a9c886b1b43c9a007a15662fa8cbd96d2045a465d8d1c14c04b0fcf8fa49e5f48285b2c07368b0cc59a4d5c3bdabdefd0d3f580b09222b9b5fe0aa60bebfb4a738eb75b803e6b6c10b752b1f7bd8abf4f24186c7d8ce78e41962c11aa991cf61a583229a935d5bda86908a544c1047d75704aca1abae248d72c7670e6d44560f1aed10ba6781843359e493e702bb584d0d5a57c4820b492bfd6aec5bd26118b650cd2b8dfc98b5a1fb7d8296ac8e6824cf41f66fde08c2f6f1a0dfa57f9965672105ec42dc91789ca27afc3c238b07ecd5e114bf29be484015bf0e746164d3d56332a7c5d8b455a3972ca4b95e143991d8b2dbb54340d159f80ec43e48703ff5c949cf5743d4701640d3c06f52baa0d68e512eee91edcaa75e4561c92f909259d252ff881433dea4cb21264bc87b1e3746b9d9458a9771922fefbe8bab6adb79bf34db53aaad0982f8678179dacdee41686ea8c98b5fd5d5a68f729098c97025287816d53623fafa4012b00a1d723a72cac70fcf2172c55ee39d9b7155fea1e0a09e097058a76e1c993f14f8c62f2f697a1a752046ec8ba14d1971d0917c7f7d86d73e420adc4f00ce1a8b123791d747988aeff0e1df5b2caa8981399777141628196bd5dc8ffd295698714cdfce4f8c9c9a2eda10820258b1bab3cb10754982cc7d0315cb43ba51ae6185a6bbe22d7e3563041d786efc45d01c5eb4d6838a4e3afbb02577db9f3b082c6e69961fe7b447df689e22dccf50727645f565c5ced8ef8682fd8cda8b1d8ee8a5a6640715bfe3c545d01235b91ea3bd012bc3c0eb99e50799cf6ee0e1a742f67afbeb62b40f03c798758bf1bf3f27589fb7f915ffd30a58f462a0725bbb612b7fdbf13af84d8c526f1148a3bade6f6e641a8dd67aed9594fa7b3103c5cb5372b2b30c902128fc4a10402527fab1214b6707b1104db81c7762511aea63960d30f1265a061b5616adcd1c2eebedf9907001508f118abd527052247589fdd4b46b0ece0decd0824f48570af757192d0028f175ef5877165504e201f3253cc8ba9e385fe76af09dc781aff7fb8d48b47f0a91834e9a0ba5af64ed78643f68c228dc3bf83f52cc4ae5467f580ed39b163bd7fa125c90eae562074abe694aaafb995078d19465eca908827aaa442261c8db45d13534ccb230f8d4256099fe1266af683c8b41d142e7d41d188708c47f4725142454bc166887c1a072b451de39d16f7e84caa548b6bdc37d3cd6b655209f08a89aa45757b128f0df66e84ba6b48cc8618c69524d5e7ab0262484d6384a07066c2b426f272116cc2dabfab7ad9dd00755c953b049fd11f6b250fc646417c5c07c2eca950c1b8630342d3f7b5a9f1f880d07b7cdea8006bac15880454a3c386021ea1a0c5dd933e9cdc3094a71f2ff4eaeb7155cf2ddbd9f989c985e7c2a69c3aae4d69a9da3006ea6be1057fd94f3894783ed6a22a9ccd1c97bd61a7e4f7b7de50e1d484dbb0801104bdb2ffa76de60cc3438c3527046aa4e644b380ad931841c7b9091ef626557cd84b1d53987556c72c186b029fa071ad6790d45005f56e54e73b92d30436aa0bf2beac043987f275fb9386bc25b24a9421dacbf3f0475ee3302be35c8a0f0003c993d3a37c9e165e2ffc4520e8ade9b74d04260cfd4a403a75496959977163428d9df1ca171a77e003b73c8136beb52109031d4ae5b24cf1be72d11d8e42d99114aff9c474252c3138c337f3fcc2c6916f68e68b6c8b2a98d0c2cb27276ee6fde2c5f96f221bda04901af5c78e048b27a5639c5148db887ecf1c83cdb336f8e974ed58f6aeb4b1566692e1ffb66899441d0517fa275ad964bca4e6f596ce25c51986d6b36d481e37f0fd35d693cde323ce96d6cbc61547fc4b04785b5fd89a65731c545f421fbeff30b280ac04a7a9bc1222d8ffcc8addf9f791c8bc78e54c68acc5b222339caf7ec107d37ef33a13ca5b849bd36e65eaafdff19e108e91c7ea02701064619073381f6ade3dd8eca8f67649cca15837b61b19fe9be676f7b0e8e2fa8eae8607c563b0a93f7976b3a41af444c3aff6063e942ea6afc896ba95c3718ade9f727c076cdcbb61503bab140abca0d39463a8093348219e5d764912d344518685b8bd765a760684011ee3a82e470762f2a9cbce9b4399870b3124a9ab41b6f6371ca4ecad0228527f994dbcb4cb144698ea1800dc5d33425ae99734cd4eca9a09ce9dee2326ea124d9ac92824935ed8d2b0880431fff542f5764fa12a4eb1ad69fbd924dce28f063cd432ff3235b8d90e546a0437fea72265a018f1ef4792a7ad626a478c0e97455da3274cda865ad0cf46909f92f9de4b238ada85611bfbde404256f138df91e663a65f3678f62b5dfe6bb4775ebcc3668358b2d8677d4262e20b5492402995e44e47ac5a7977fbf8458fc7af60948f0384b104c1a4ba1a6f5976a37411441945638a61e28ca02358e3a0f97368a578c404b9b86d5059a4bc573672c1ade11478e6e188324074d29087a4b68ad57dd5d758256a297b968456ea1c6e8001d1b2b1df924de5f3761637fd778e9481f0faf32bb6d8eb356b0e0a00646502559372059ba1229320306c3afc8479a28a63e654e4c7e9eebb28a61e4a1e236f59c09499ccf075296eb0308b3ca51251c26a1ba3b2035da40d831eb403da8f82e483cec97a3b77c25b6f3a50df715a5d16404e08df117e1ffe1af819235416ef144297a7d6ca83f34389f7a54002f8144d8c2d822afe593f44f5016e5315b03f1f1aa376f1d69b9e081ec6a65955ee1a713299fec6436b9215d646aebb0f87b894da6931b8baeee57b3e5f742e6ac47ce971ff4904f70b4af23ff61a0e44127bc050c3003cb164f62f9a7e07bd92de067afd6704f5115518dfe90f06cc59b521bf09bb7652c3662444a35e6baf2e55e2c2d1fa9e3cd38c6f44afe2638021da8d650f0bf1c4c3844252336f47ddfd31832eb82e8774c1ba8b2d2e2f11c6b68105979247456f93f4bbfe3c73192f174631775acc96b29d4a79c6777205773939d603064ffddad6a55</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">当前文章暂不对外可见，请输入密码后查看！</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>随笔日志</category>
       </categories>
-  </entry>
-  <entry>
-    <title>记录的7天</title>
-    <url>/2022/08/22/%E8%AE%B0%E5%BD%95%E7%9A%847%E5%A4%A9/</url>
-    <content><![CDATA[<p>周六去了【西山森林公园】，周日就起不来了，全身酸痛，感觉都快散架了。</p>
-<p>早上睡到8点迟迟不肯起床，强行起床的后果就是昏昏沉沉，头昏脑涨。本想录制视频，感觉浑身没劲不想动，只想躺着，什么也不干，一个上午除了去沃尔玛买了骨头，回到家就看菜谱，简单的炒了个花菜，汤还是昨天剩的鸡汤，我就煮【老鼠粄】+卤蛋。</p>
-<p>吃完躺床上看手机都觉得累，一点睡到两点，睡的很沉，两点后睡的迷迷糊糊，因为旁边 43 号楼一直在装修，吵的很。两点四十多起来吃了个桃子、火龙果、香蕉，感觉肚子涨得不行，计划录视频，身体又累，还要担心被室友发现，一拖再拖，拖到快四点了才动手做【抖臀古早蛋糕】，需要考一个小时，进房间休息，本想先把制作过程的视频先剪辑一下，感觉会失败，就想先等考完确定成功再剪。</p>
-<p>将近6点，准备煲皮蛋瘦肉粥，烤箱的蛋糕还在继续烤着，先煲粥吧，万一蛋糕失败了，还有皮蛋瘦肉粥兜底。听到烤箱叮的一声，迫不及待出炉看蛋糕，意外的惊喜哇，成功了，就是不够上色，很开心哇，这样也很好吃，晚上美滋滋的喝着粥，把周六卤的鸭货也清空了（味道好是真的好），应该是卤的最成功的一次了。</p>
-<p>洗完澡，看到室友又是水煮面，给她切了一块蛋糕和热了一碗粥，就会房间剪辑了，忙到11点半，甚是疲惫。英语又忘了，记录也忘写。</p>
-<p>在YouTube发现好多做【抖臀蛋糕】的视频，看了一个感觉人家拍的超棒，看看自己的，进步的空间很大啊，多学习多练习~</p>
-<p>忙忙碌碌的一天，累并快乐着。</p>
-<p>今天还想多录制一些视频，留点库存，万一那天不能录制的时候还能有的剪辑，剪辑好不一定要全部发布，可以留着或想上传定期发布</p>
-<p>早上把今天的英语学了，因为周末两天都没有复习，今天光是复习就花了一个小时，再学习新内容，一共花了一个半小时。加背【麦克老师常用 625 </p>
-<p>再次警告心得要写了，要写了，要写了。只写能回忆起来的关键词就行，ddl是 2022-08-22 18:00</p>
-]]></content>
-      <categories>
-        <category>随笔日志</category>
-      </categories>
+      <tags>
+        <tag>diary</tag>
+      </tags>
   </entry>
   <entry>
     <title>记录的三天</title>
     <url>/2022/08/17/%E8%AE%B0%E5%BD%95%E7%9A%84%E4%B8%89%E5%A4%A9/</url>
-    <content><![CDATA[<p>为什么不用蜕变了呢？是这两天又觉得陷入了自我怀疑的状态中，这样花大量的时间拍美食视频，然后再花几个小时去剪辑，观看量却是寥寥无几，真的值得吗？<br>看书看完又忘，要写读后感也一拖再拖，最终没有写，有时候斗志昂扬，有时候丧到极点。所以觉得枉胃蜕变这个词。。。<br>一直拿“将改造自己进行到底”来激励自己，或多或少有用，但学习还是要找对方法，至于怎么高效阅读，还是需要找一个适合自己的方法，并实践。这个是至关重要的，至于演讲嘛，计划是能够写一个脚本之后就可以开始练习了。<br>对于英语的学习，昨天花了两个半小时再背了3个词根的二三十个单词，跟猪同学说了之后，感觉备受打击，但也是实话，自己在背 agricorporation 的时候不也在质疑过嘛，只是不想再猪面前承认这个方法是不可行的。庆幸的是，昨天下午在 YouTube 发现了一个【无忧英语】讲解单词应该怎么背，短短二十多分钟的视频，收获颇多，接下来跟视频的方法实践一下，看效果如何<br>第一次制作小泡芙算是成功了，但奶油打的不算成功</p>
-<p>今天状态不好，上午整理麦克老师的【常用 625 个单词】，下午看了一个半小时的书《终身成长》，就开始犯困，出来神游的状态，此时将近4点，开始逛京东，买揉面盆、量杯、碗碟套装。还在 pdd 找了，舒芙蕾碗，一下就五点了，意外发现 YouTube 的观看时长有 1 小时了，开心了一会，然后才反应过来，一个小时60分钟，一个视频平均 3 分钟，主要 20 个人观看就能达到，为什么我的这个时长迟迟上不去呢，视频做不好还是菜品不吸引人还是标题写的不好，最近两周的数据分析，播放量都很低，远没有开始发布的短视频播放量高。<br>下午5点半还是按时发布了视频，还上传到了西瓜视频，发现今天头条发布的视频其实就是跳转到西瓜，所以要在头条发的话，可以使用写文章的形式发布，还一点就是以后写的文章可以发布到头条。</p>
-<p>晚上因为要安装网格架和换四件套，还想买更好看的盘子，如编制篮，又逛了一晚上的 pdd</p>
-<p>这一整天算是浪费了，视频也没拍摄</p>
-]]></content>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉，您输入的密码错误，请检查后重新输入。" data-whm="抱歉, 当前文章不能被校验, 不过您还是可以看看解密后的内容。">
+  <script id="hbeData" type="hbeData" data-hmacdigest="8cc35bc1b3b1980de0c554b6de29bc6852cb50de4aa8a4fc3db49876b7e38c51">322fb59090cf148115791d651d5a7dd4eb46e1dc11c0ae1acb034704bb6b7f0399fdd5a00ab5748317fe464a58087d4c9ab8e2ec1dc27665aaabef659daba55f438bdac9139ccf56635e7c69f97ff2b17157e3900283e01e1fa7f4f200a7db6f6d0edb6d9eb33ea57c3ad11bdb5233c5dc1f0307054d8dd17b6c9690782d7a717db15986ed2a4bdf6b8d81c7753fd4d6f7b8bae0a11f11564d54ae5678bd6cfbccb7ce292f369d1b73deb82690bfe95540b79429d978397faf2489001266f4e1cc2c1db41e44e3b0d8d18210d67128332ce37cbbccee240c38a338ab9d2bc3786a38e6c338eff2e62c250aeee910d0d79fa5ea17ec958c06f123de907959ae0bd43676754395bf9f51f4830f7d48fb818282bb558e44a04a40fac21dbb044b4f644b665bb3a3b98daa35ba68054c4d7ff822877bd4b6b4b3bf5e2d0031f57948c66cce134d642e2c3d8976fee80be10c4b774c703487d4719644eea0fae5d7d605166582768437a5daf03932b13b23578d6617d9aaab0768aba7b45e1dbd15f12c0491290c5268c0b656e29f57f11096b558570f9ca700087d4fc3a72c648cf1c5c2faa088e41912f30f51099be63d89557cecda484ea4ac1f7ef0d0823bac4b3c42249ff63fc3f59e18802d8578f1e6c77ade2d3d20546bd67473a84dde7dc074f4e3c3a8a91eb6263c32c5146d02c123d79ecb78a434d46aaf1a0e5623ff786ac358e90fece2663fe3ee675a7a68e481da966dc8d1a77c25b160a1e036e391f0f708f1ed09eafbd43a3541df7188d67178f9ad01aaaf1658fb4ff60f1e2fe5df3fc06bc7180de2db41e299c11a95ad64144b8b9bd4d88073f5a3ddc4b8eaeae13a544a23be1b8f70bc65317847be2b9402c6f7192978d34918ffdde34a05dd066c7de18d78115f8805003e1613568eae823e5c0144a58b85e881b0c9f8d9aa6d41033e372c1268ae3e401d938ca8ae55abaf5b23a5289b11fcf0d5c80120403fb768c76c771efb0d79a117316a52440fb0593d0ac4dd3efa8b6c03c212700269f588f7b719604c96493066ff07ac25bfedb60b076d587127e7f0488ad587fae5e6a0a2c320fb3032fc627f443d762ee14b12e216a9009a5cfb6ef3c97402ca0159412f437c9c98fb15804cd1d6c5a93ec407208ab84c6e27104a1fa205ab9815ec1c45995d8e657091285a4fb4d4ee112bee1da9b3a30e0b11c9a343afc2463629aac38abb3163beb81fc932f16efd2c65f8087d74324eb10468fa0ef91761d430db2a310d1bfb75f2762c58f7f7f3072f5260aaa7dfa9cfaafadf11f1b1eb27a093a5f59273fd3bbbc9df7dabc834cd949c761161423d78a079de8496c4b58b50d319ef43e6775424d852b24e98f4c0424cf727e9cb6db90fb58dccea3a7f0560417326b0110e2b8e5450eef12be3b835715af900b895abe6a2a012aa80189704d018f5049bd1419d39991b7c1c4cc032b48c228e8a8cb810803e0dbcd6c58147815eeb574a6b516b42b7e9e3f34fec5ca2df2392e5f1bd971d442d1c6ec9cc83cd9642a09c39758fdf86d980609888533c02186d03f86a32bb9fafebb112695bd06752c8f40b20f3fc5c28ba1af51a9112681b394c11f6c112fc09304995e6dd7e3c9a5818d89fb9ac0c22220d78d92fd956fa4e874087dc2bd047c52404ea5e2354839842c0cb4939003a028f63ef50ce515258540867c9e44ec9b4454f55beebf6359fadf5709931bf99b3d2ddf26a78c41bcd66b25c000e19985c219725b786a214a2b6ed4df091cc744ee689efd5fb395a5f594c77da39d62334c8ac8a9b230dafc19fbb42ba256fde38bdd11b3fcc522545d2e3ac6dd3eb2b8f2d94e3dd228abff36d7852297dae5592e9bf82159aeb34ea40f3054c30f9587e6bc6b969f5c06ceb34836f4d656b3c4fa142518146855649d4e61677a99966a24f01407d9988e7ea073d8aeb82bafaa1acef25151c9acd3d48a5b973ac7532edcbe7f2b27b9dcce47be720fa6f45026c1d1bff4ef276c5d7c8bedd3c66b24d79898a0e7167703b4b06b064db20971dd7b9c1fac87ee62653d62aa9a8454f9ed2b0036127921bb8aec2535ff26df9040c92dafadee2cae07b2e2336330a07b44af98c409cf4883a7441f7474f0657a876fdc3ad51865739e0cf2e1470f5370bbb7b58e29ae489c0e88fc442782ccebefb257a04e9c47d9d217505ff74563284506e2c29775d23c9a192a4fe8de12738ae79d63949ca0b85e5681daf55342fa675b7b7a87106c301aefb8f8ae5d4d77bdea19562315658ce3fd7e27c6d8b8bed2093583c8a4927c416ac838e8515504cde7b9d0d6da3aff764baf02aacf32bad966a02300ec36dcd1f57b1df393ae3fd124842d22f39ec9441565ed9dea581dde2bf547df54fe8cd1436814bb403fb0e02e29a28168e2bf7f0d90f35b87592ae885216a78e84f0519ab9c40c58b6d113fc72fe823b6aedde27a6b512c4e8f99a0ec35f94a10aa22d8ec5dcf3b3d609c274bd45b6f7aecea8f4b156bebadcf1bc40c3f29fcc249d19c79c7d3816d79703de74a7ce5c7a6014518f6c66311a30287d334e333bf0e56a49c60e3ec87adfb26ef41f9547ec5f2760b25341160b8dde3da2d964bf8df8beb4098857f69941dea45cf209fa85b807b3b320b7f66408289af77a239f48b7af03c98a5b25be233b3ac8d8bbc19018ad147e983118daef2d411fc50c202b346414b2f5a06005d0de6b939dbed25ea821a2126b9e9f7a4441592d014b692fa120e0ffc96c4feaaec7aeb458e1bd7247fe4ea843cfa93b9a9ade2bd1caaa74d2b5ee3d8600536dd0924b8c611ea19f534765f521a5be4583ab12fe47b992b10d9bc82b49fdcd95a32917c69ac2a7dc1924ff445ab7569370b8b44fc3d5a1566dee57637cbde9daadadd7f8a68db11891595d605537303407ae225d8bf1057176a6bb1df918aefc5eac78f32599196cc6e328429de3c454ec80534522451fae07c449022113db31022397d772e37b496496383f8df5200d70c99298c3744a57d946526ea9b0e629db1f54183acc05a84dd6cd1e15511e8e0cecbc7c651c3c46b43fe803568959401bed0499392b00a11659dd2beda05bca5ec1c5d59c722e41f81a6313ffb3ce054aee926b6bffd69ee2c41fdb13725c335cff656136f1791e0b7e35edd84a785eeaf00efd7126d55d65c711bb861c9476bf56f32109112be3eda02ec1881cd74c0f1214a93e890b19abf5fa2bf9162ac7dd632d6758c9d516e8e4beb66bc21e8ccc5a5d39b138b01244b40d56a896d11eccc5de573cdee831ec0e4fc660d2bf47f8a893244bd08ba9be84564fed727ee1b6d23c80105346c0b12bf788caba7ba1e5822c75e8f34d922b5c00ca3e9c7829f04a9b98b08b0493661378b6bcbdc2dbfc2967f398b63e31609120e63a61e4b6fc91f5303302474815fbc6a4b3899bddfc4931eb4a488629cfabf068485dd98bfacc25b8eee676f04985e48ee4e4bc970e28e74343</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">当前文章暂不对外可见，请输入密码后查看！</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>随笔日志</category>
       </categories>
+      <tags>
+        <tag>diary</tag>
+      </tags>
   </entry>
   <entry>
     <title>记录的五天</title>
     <url>/2022/08/19/%E8%AE%B0%E5%BD%95%E7%9A%84%E4%BA%94%E5%A4%A9/</url>
-    <content><![CDATA[<p>最终还是迟迟没有记录读后感，能拖着就是不动手~</p>
-<p>早上10点忙完，并没有及时进入学习状态，而是查看【下厨房】，收藏了一些菜谱，总觉得做美食还是比较有兴趣，而对写作还是充满了恐惧。<br>钱（视频）还是要赚（拍）的，改变自己，让自己变的自信、勇敢，这也是不能怠慢的。勇敢一些、明天先写几个能回想起来的词汇，不要求写长篇大论。<br>计划明天卤鸭货和鸡蛋，还想做一些咸蛋黄 —— 今天又到货30个鸡蛋（烂了一个），冰箱现在一共还有 74 鸡蛋，明天卤鸭翅、鸭肫、还有鸭架、鸡蛋，明天有时间，方便的话（不想被舍友发现），多录一个视频，这样周末可以慢慢剪辑。</p>
-<p>上午看菜谱看了半小时，开始背 【625 常用单词】的分类 —— 交通工具，11点开始剪辑 —— 老鼠粄，下午醒来又看了半小时【下厨房】，起来补拍了芒果布丁的视频，接着剪辑上传，忙到5点半，折腾了【西瓜视频】和头条、抖音进行绑定，同时发布，需要完成发布 3 个每个大于 1 分钟的原创横版视频和总播放量达到 17000，才能有收益。不用额外制作视频，就多花点时间分布，也耽误不了多少时间。现在还在学习拍摄和剪辑的阶段，多学一些技巧，后面拍摄和剪辑应该会顺利很多。</p>
-<p>现在的中心放在了美食上了，对于学习的事情有些怠慢，应该提高警惕。</p>
-]]></content>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉，您输入的密码错误，请检查后重新输入。" data-whm="抱歉, 当前文章不能被校验, 不过您还是可以看看解密后的内容。">
+  <script id="hbeData" type="hbeData" data-hmacdigest="82b74c3142fc777b68e86bfb2228e40eebbb23d5e4f6b1f3c62abee5cfa3e4bc">322fb59090cf148115791d651d5a7dd432bd3bb3fb9840d4c4e9ce6d0c8e9b7fa3aa240dae5bf42cf482bb9e80f560d9fbb151a1237f42ce2d109c506b307694e5798291c1bc6cb9e60fb8e8cca5400cf4acc55a423a2dddbb8a49f6e29798fbb9dda4810fe148b645e505f7d666f48912269f9fec6eca165bd3433ad8a2c6bcb0181c45401527963266efac12c1cfcbbae65b5de2832eedd4c126e47d7ff412f2bc7003c430c1db85c0c5b1dc4ca24845a216538200b8012c61d36157a7f0f2f6a64fcb24159989f64c6088dc089dcb70dd9afa87350f071006d0c322a8147f3fddb8e30cef18e1d1a8d95e43508b86d32ac9e8810f65ad3daf075c842243e3dbdf46f156edc09b57c091e6324e848645b432bda2999967c887f2c06a059054df76d8cbc5f56cb262b3d6bba3ce7b53b53791b389e13b63fd7c8c27309f7496c9975e2833a747b16d37863ea5c0674bfb8873bb8463262597a83365621bf2a601036a161225e7fc0d71429cdba08464779dd6233b556a426728205cdc700fc7b6a574e974ab5d9b704f65193a0090eb78b228c066f9ef78a430645df4f7f4b49a65985f9694d7267a744cbb42df964a7caec2b9aad5b11601b6763d3c320556850b55c8d0ead6fffc126bd43c6a435460bcfed995217efe6dcd9bf60346277f651b0635892a7f6c5db7583999e1d9881d278b9fb4a9d6a85e5c5002cbffdcd261361a046b3067bcc96e9ab6bac5af723e2386447d560417014b704d194f162bb54d2cb9ba562c8f9687e5f5104c1733ac3dd787ccc11e862e967f4c3612490033e536405f8080f4ad9b976d46ac2d35c9f28b5a7d58b7208c88f9aebf868ece10300386bb42e4c2b4bb9dc93774c1506888482e42b12532a28f6afc5aa2051b1d6200f5302c0a15367e2e24e35f27ec95d6bad4200fb72a7cb7f472204a3237a09ddec1d7f5a7ae39a0d19a7c2827cff6a15585cc5491c5c1be45cef65c09ba215ebefb6d8fdf17ab96e1eb9c24d67285f6b101c2318630cbe65ef5102411736536657cec6327d84db897454e1669aa17cfc62fc7a851acd4a3e85e113f4a1c7746b7910122de1969ee173e550f60e9804ae2a30d8e4e97294be8fbb23f21ab5df71c1d6048f4d9ade1986294cb6eead57631439351df5cc8131ef99404c91ba162d105c8f9f75da0a93dba0915fe2f6262c2c96e5a9423e94a1ecd8a9324e85251d6c4c6e9c850bdb5874c93423d17ce436467ae118825a46d77fc695d104d19ff5328133a11ddeb86edc7d3b556a0610cf237b5056b6da547ced171893c07d471295f4c2f4078b50d1359599a934448ccdad9c9ce4b9ff9040f9e5e2880abb05da280ed7140e0ba432f86d9d1199e30dafd0d300d6682489d62dee6919f37676a5fe800efa8bf79f6e2908b72339108c3abee1f7584880aad83d77443abe7bea16d41bbcfc833d92b1aa5fe23cfe83cb29c02b461e23ed7c0802e1c18457e940848ef68c98d3d656e12962a8763b738d8a76716991070db8347e4f9f6a7be0eae6b0f2a9ddc1d6fab90f369e158be026fcd7ef40a9a010a6d627a10a1ad1ba03fdf0858c87f44a2ac09eebe35f8022cbebeca183279d25abea5d6d8b6ea5d0209dae0f60f530c5a47f5ece0f01e3bc46c8784fd7c77546075d9dab188438aa9d69f2b6bd95911616f8bfffc6cdb294815c8a1e730027930d574ddb5f2bc65f8507151d8450c92efac9b5b01fedce4f6efee96b8d80a750444a507aac39af31c9372579cff03949ea3781215e9d731c9a693a372a20e009e64831b1d539306e9c6914d32ed489a7c2dc58b9defc7b8966dfb6105d3984ea5aeeb0841e12fcdc364a66f7c549e563aebbd4fda47dab208a9f5a355c4184e821b4755414b3b875c5363db02817ba582d2546ebd82c6b11289f84a2b6b0b671bcdf9307798611d9031100137ff900161bd4b3696b6ca2bb19aaa17b64aa986fc5a81dfecb162a3a413332835751fa1283b687a9cef754d0670b9e4e261db251e7d398d97b8da31eb2e59b59f09c976464a6228b50277de01548ecbfc8a7fefafff1f3233e96b703d9ed2c87719465b75e86276f7483150dfa12b2553a2c2dd8175fc141cd64680dabb7b98fa4126b4b61761fb23a1b2982a58aec8e4d760a0465c7a0212343f37db30718d7aad8f0b8b3fe034ed8c78d69a34fee048c3e7018c1dcdc48f1d6add7f3a02a0dfd4708d0750ca5ba6c6327c0823586d845b171e99810dddbf2506ca</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">当前文章暂不对外可见，请输入密码后查看！</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>随笔日志</category>
       </categories>
+      <tags>
+        <tag>diary</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>记录的7天</title>
+    <url>/2022/08/22/%E8%AE%B0%E5%BD%95%E7%9A%847%E5%A4%A9/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉，您输入的密码错误，请检查后重新输入。" data-whm="抱歉, 当前文章不能被校验, 不过您还是可以看看解密后的内容。">
+  <script id="hbeData" type="hbeData" data-hmacdigest="d95698a891421e5a55097003d8ea47309b31093e99ac972b004924d0dc847b36">322fb59090cf148115791d651d5a7dd4ce6c3c8dc4afd9573f26bd60894aafaa109ed40a584b6243e4e4a970e111d85c58691ce65390682f6ab50198efb6ce031498ad9c333d193db2ebc23cd7a8457227fe93a19930e33b1e53ad9bffa99230e7d69e19f8c9856a982d70e75b7c59cbbff7ec4c387f54898ac1f535057a40910a82d8e062499e0509d3a710762fde1135014d365c3f0c3d0d514a26efb833a29bacf539c4565c0ef9674b6ec57bb2be0de1dbfdcb8af9788f5d30714756593a1c04a4acf5a6c5dd1ed7258baf22469c7a171ad7a82065414915cfc5e06df2741eda760f42181324d576654d834a5d049ecbe80133673e8ba96eea2fcf493a84e68ae8b6cfa51f8a8dd5b7f644f9c202525069fabc1aabb50c14b99e6f9440adbabfda5ba7ac03104bfef51455c2a8158b10ddd5e959b90a7a3fd0f1a8e6d4b0614b19ab29ad0f9194b00453319e1ef144c1668f043a81609e694822f959848522e2944ff914e5056ea68610e7bb74589aa8fd11b7349cc8b15ef2570810c05efc77bde3af0bcd8a46eb1d9fa46f28702404243324529155a1c15c68a8136e8d9e4225045aacd0fad374cf60a0f91bdfac443d1aa6007451ca8621b19f964cc96d97ec3249d1aacda3fcf9f7911cab9e202524a6a2ca72ab981758a9899334fd43c45f36075726f0cdf23ad83f8f9af2c72bbb4f9bab2fa24195840e3ddda68b553336a72d7eda796910e940a3b803f4ef46eaf8a742b649ced7cd4a635caea0a35d6343113fdce087465462dddde27595c50fa18fae350c5bfb3290d67a5ee03284a1db872746c0cc1b66ce2e62d121a8b102929c3c259a9917b23767a2639dea93c409ad158d7b70078913cbd9391e483dca8460905d383eaf0af302ffac3a8033c89c410d5ea5528a1160cf5583921a656f870790ef9be266b4e9ea243c5d5ee3d4cf5acd508a43ecd6b94894646688e98cbd7604cfc2c30ee1b472250b630387c6ba80a7a0fc43ca2d3aa70d9fd3076e78439bbf54423b1d6f924c2d41a96d4749b6e9a6b26db6bb78b48c05df334659bccc701cbbb777daca7edc55d4bf7e0a483f5c4400c2c64d9fa68508b76f0212073d80c8b1973c0026fc279d2cfddb63f7ec4ee6fdf7c483be8e1c5251507821d0977352dc559fb1b74ac2fb82384734f606acf2244fa3c9214fd17db954bf8c56dbf17e62318321c38b4576f8294ccf43ca5405370692652b8a038aadc914cc790a10abde2bfdbf5c013ce1f5a7bbcddc865e6ca94a89394f6ec98789916f4b665d489d4f835f8920e0ffbb57cd838f43ce30ad8a2604bbb0025d7ebd959630e899c7f54de76f78c1e8e7ee4586b11c50ecd97958a56c7e06bf016829882dcb1563472c9a14dc3c3b30215bb3a1148779c8abdb8df3e0e827991f4b80ac0ce7e05bef1837096e8874b685ab10c4a43355788821f5c69978e6c9912b7365e0bb446ed845e8b4036987d9974855ffae38414848f29b43fa0382744e84ed2be72b495ebb1fcefb6ccbb3fe7914bc75a859697bdfa24d556f9805bbe77b3ae0c1b09f189a5111608188fb9395a846e2d51f0d8e63bc72839d1ecfdda276dd77058e47a0f9cec7c1274a431927272e9dee78c026f042c536e20ef38184aac695860fb6d66fb6590ca416b06facbb8e732b10773931443206315a064fb86bdee14c8d42ba43a48078bf950b4354c3a989dd327a338db60bc2145414282af440c700565d4fcacc8309370782415ed7bc53c5e7205bf965747630bcc98425c65b6f1abe77ac308be0b1c4a1f1cca288bf15f49d5c2f8a95a2e25721a56fc6a4a572b8e15bbeb640b12a9abf9d663ff3812bb06113ebe4e0f3fb993dfc058e422f8c9af243fde9fb8465b86a76333906c963db84d2fef5ce18c8353331cad83eb78d0a8635aa18c56f74012021453f90c17eab91323cf74d7a4d3f8ce7a3a1bd7251a690b8ff5c4838c6808dc106ce79584f567cf97bb03624fdbb03526f917091a5b8081c66c23059bd52d62eae0dab57e9580b7f04ad90a142f49bf1a2d66d1cfc58fd4c1feb11e6f4a139e6aa78119d7249f1e27332af932e7e733c262cd3cb865e126818519f3180c1f0c4b4af6e3606d9bd2a4281839a61f99771bfe900c14c26589a79e93d3b25a3184ae61bcb4f01f25ef751ea96dab67f3d1c9d87ec1c08cd2f87c0282e76e84bb7b30cc0327c709d1c29d46cc2826c19aea0ab8dfddf0141c3f755b4075b69c45dbde66e7b51c66bdfba99261b9052712803254789dcf1cf50536742dc0c1c2df92493aefdb74da117d0948928f1b626aeeb2867d5d21aa60e64f715293ce896a33105b1803f0f5628143e729eb024b1e52ee5c50088e18d0169624883f740581c8edc6310589856cb9957384753a0b8edde5f102884b9788352a6fcc7bb8d5a2e51fa7dc1bcdd9cfdf8bbec61574cc23c11dc1d42f1f3fbe914b0f201682916d67aa468e4a95c250ad59fa0db6db0bbaea670f46d6396ca249974a9c16efd115ff9cf54b1a2864161d9e1c571c39a3dd7a90dffeca1b7dd57b1d4140911a5f1eeda68e7ad642a3c295a99e07036790a7960f7af3cd1d82071635e8ef2a0d78119b4f165870beb4e51a98abb250db62c0b0318252a4b4c5c5dc16f806e422c5c7518c5409977c26afa2b3cd10968f481eabda70f3524188126526038ecd020cbc9068ba2585ac20648af160150ee0a6504113f7e2ba1871a2a946b20aef8ab7f705ac390c0d98fe941ceb5e81f0606b549b6e24ecd67b88ebc9b97032e7eec4d9103c89fdb1a387703c9e5a671cf1440818357a7663fd49375943057fd72a6d0e15187206e8f069255a4b0511f4c85f6165f0c5793811fa7d479e9cf52f7b6b775c7e5b5bbaac715c485fb2532508078daf6440a3455037ac15a8f7bdc801adb7d28112cdff4ccc8cfa4a20bf62877de6955daa6279ae24dd802ed1accf778ff98959ecfad67cb0aee7582473b06a5978079f63e0db3f340480db553378eae89c518eb0a3fa60c2f54819497cbb90e3391853492e4e54c096620e21acd72b6cd6c6f23cd25afd94ca57aeae027ac21ce8920ffafcec03b7cce54a22344009f22761bec24ca42301578c9719ffab86ef79a9533e5df9643a0c02bbd5c8d1587b8d207f1412adaef275fa9b6f6b372db386005ef8c90b579e42f1976d32d029477487538b9c8accd070f0b6869243945a9de7d319bd77515e362304a3cf66a157f2c3f715a077e1107f766b6ceb4aa9666bbc762574b3c9f8d093ceb5ce9897567fb95435cb38734bea10584ace220b8fb85f52c086f75c84590d736872d077d90142c771acab4950d6d12f272d628c2cd89eb445e0f651cbcfddcc105938c3bc46ad04349c54a77</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">当前文章暂不对外可见，请输入密码后查看！</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>随笔日志</category>
+      </categories>
+      <tags>
+        <tag>diary</tag>
+      </tags>
   </entry>
   <entry>
     <title>记录的六天</title>
     <url>/2022/08/21/%E8%AE%B0%E5%BD%95%E7%9A%84%E5%85%AD%E5%A4%A9/</url>
-    <content><![CDATA[<p>7:15 的闹钟，7:14 起床，马不停蹄的去厨房弄卤鸭，因为计划9点要出门去【西山森林公园】，视频拍摄还挺顺利，就是手机不给力，拍摄久了就发烫，最后出品了，手机烫到不能正常录制，放进冰箱紧急降温，录制9点半完成，出品也很满意。</p>
-<p>10点半才收拾东西出发，需要 43 分钟的骑行车程，门票10元，到了门口人还不少，阳光明媚，还有点暴晒的一天，脚也走麻了，如果路上少一些或者没有那些虫子会更加完美，最开心的是带了冰淇淋去吃，路人还时不时投来羡慕的眼神，不过为了吃这个冰淇淋的代价也挺大的，提了4根不同款的冰淇淋，准备了4个冰袋，没错，那四个冰袋原封不动的又背回家了，因为第二次吃的时候剩下两根已经开始化了，猪同学勉强吃了一根，还一根担心化到没法吃，就又带回家了。</p>
-<p>下午爬完山回来，去吃了螺蛳粉（非常的一般，一般情况绝对不会去第二次了）。回到家就煲鸡汤，洗澡、剪视频，晚上吃完饭、洗完澡9点半继续剪，终于在12点的时候预约明天下午4点半发布。忙忙碌碌、累并快乐着的一天</p>
-<p>明天希望能顺利录视频。。。</p>
-]]></content>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉，您输入的密码错误，请检查后重新输入。" data-whm="抱歉, 当前文章不能被校验, 不过您还是可以看看解密后的内容。">
+  <script id="hbeData" type="hbeData" data-hmacdigest="28dbbe31a1a598724f1d5aa91a74177c94f014c97f21f0aaeee9096a003a3555">322fb59090cf148115791d651d5a7dd43484c0c0d05848650144e866424a4c1dde972fa197706432158cf3990cebb8ddeba52af23f35b7f9eb14da4691c28463856c4aeaf680d7b30589abd8d632e3e5d52aca0721030cb7692c7dc915cdb265c4ed6b64e1a7af1630e258962e5126e9c78ac0a152aafaaa0c59563190ca8309e780aa546ca911fa6c8c873a01fd5e0376caf347093fd60590dc2bd1613926e27f41e09a8eaa5bad2c28a920cfb8c1e25b4fc5f624a88150ff5e988d87e49eab1a0f6bda6556aab7fe0fc88c3bc9b64451995ed6a1dd2cf0500dd77361f27b79d9646cf581a07cc8db7367306fdf7613c22bd6184410d76bd3cf61e73664a97f53408e7ca51710b941a337c26a548fb2e834165961956e3d9ca8bb2541874e918912317b86b6574042d4deed9c0df07729bbb7ef3b4558967156d98659317cd47f2a314fce7a7596bd36e531ab7cd97c8ac126e969d3d0905ea9fce14ae7958a140b77565dbea342725afd7385346713adeef829bf984875038dfd68bff365a0903d368023f26b02b3f7159528cf9f058a22226ca2ccdeb36a8c3effcb91046c38526e077e84fbb46fc38e707a8f8f0956fc324a1a6a9233caffd0c0b45ebfc4bee152c313acc34f5cc6493242eac3b40285e9227199e15e50f7efa2e267fe927ee3b5fe2181b4ac329c5af9b8afd3c718640c45ee972d9d9941b1f1391c19602e1283c4cb1b3fe09a078cb94ba3f77fd1ae8f630bbe53bfdbcb02a2df4a1e273d2078a56d7f490491a06be52c43b7e2efa4fd0aaa97ba4a6cb58a8d6bb00e67d3ab22baaea73a170d9be8b0a9bd962e7e120083478ccba835877319c9c10a32e577685f8fda6e0822bab19321864ef7d6a0a87aa1198e9ff3caa743124eddd61ee73ccc4d24ba4d1096ac032be34de96a5389808bc6553364d3e2cb4359a80b1c70dad94be361332bb3a53ecdae1ed89503c200cffe6b31b9bb92cd1afc112370b96cfb1828a22695c152ee262c52bceaf9bdd2e826d421582f300c6e37e19f3b30462fc2551ff7c9b576b3f0903b220e6b150eabce74fb924b51f9740707c7390dfed34ddb757a1ece8d182c234e94712affa2288c5ae28b0929badb5714feaec8d981ddedfee2dd6f80127fabe4e36a4ae3c7adaf7560d971984b9ed20e348d5dcca17aac0d0a1aee34312877c2255e674dd9c1c08492ac5044849a98730a927980662d2dd08d0d9651da9ed5cbb6deef8119178c83169d9f881c60b09ab15bc28232ae68ea357c19b0dea78c2733b6797f2997e1259b52639ca2a361ea3ec46b07a3da80431504f121854595680ca8ad8898a2364e54c10325bc8acbf263b47edfb1783961aaa78a006ec2f7a1b2e7a136b073b1a276164d4fe9b82cca8ed4b0ae9e5e8bf4b2c6c6678b816f4ba459b020cc7cc02283b49f516ea0b657789dd461bf721977ebe147f1fdca06efbb9a094cbff341054b3cfdcef8ee80b8784341a294118d6c58d62a6d3af280914a70c68e44928614ea671674ed1149a3bd99a109911259943ffa5a77071d2d371637e41716ddff219c50bfd05232e54e89c4c790a6ea4e0155118e0d422ff75630f08e679b099097deafbf17648901feb1e8de397c0ef5890689e236690e1f2aecbb69bbcd3338967201d394d334315fde80f8d029666903b13c1b797195e9784fbb9fddd16712a7c8b10793aa2bee874c075939e1740e779b37af05f9937312c23cafe61ba005537e40d12a6bb7c69e71e20f61652a8f7a3fe15aa8eb61bf2c22a2efc9d5fdb838b4ccff5519babfdbf2ca5fcfe1e1dcc8e9b6136ed420381f617bc3d597ae78a9f1cd84c7a78e63e9ed4639ac274866df0e01335689e840ecc6672d622441c7dc7d1430644d63df65c5022de3a0e32d98e5037905693dfb3702</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">当前文章暂不对外可见，请输入密码后查看！</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>随笔日志</category>
       </categories>
+      <tags>
+        <tag>diary</tag>
+      </tags>
   </entry>
   <entry>
     <title>记录的四天</title>
     <url>/2022/08/18/%E8%AE%B0%E5%BD%95%E7%9A%84%E5%9B%9B%E5%A4%A9/</url>
-    <content><![CDATA[<p>不管做没做事，不管写的好不好，记录总是要的</p>
-<p>对于昨天浪费时间的行为，需要进行自我反省，而不是自我怀疑，既然选择了自媒体，就全力以赴去做到最好。专注、用心做好每一道菜或每一道甜品，拍摄好每一个视频。努力学习，用心做事。</p>
-<p>迟迟不敢记录读后感，不知道在是在恐惧自己写不好，还是恐惧自己写不出几个字。应该告诫自己要勇敢的踏出那一步，先踏出去，在慢慢成长。开始不能写长篇大论，可以只写想起来的几个字，后面再去补充、扩展。不懂的还可以回去看，重新学习，知道能够应用到工作或学习中来。</p>
-<p>最近睡觉的时间一直没有改进，每天都是 1 点才入睡，午休也没有休息好，导致早上醒不来，醒来了，精神状态也不好，特别是下午，昏昏沉沉的。<br>改善睡眠是至关重要，一刻都不能懈怠，已经意识到了问题，就应该积极的解决问题。</p>
-<p>早上八点半醒来学了40分钟的开言英语，发现学习的内容印象不够深刻，或者说干脆就直接忘了，应该安排个时间进行章节系统的复习，有些生活中可能会是常用的句子，应该记下来（如何提高记忆力也要学习）。十点出去做了核酸回来，往麦克老师那 625 个单词里补充了一些感冒相关的词汇，上午就先学习动物的那几个简单的单词，计划后面每天学习一个分类的词汇，不管是否认识，全部系统的全部学习不变，需要达到的效果就是能准确拼写，中译英，英译中都能行。</p>
-<p>下午的计划是做双皮奶，还有剩下的奶油和没有挤奶油的小泡芙要处理完。还想今天做【老鼠粄】，看今天的学习状态和时间安排，状态不好的话就先录一些视频，周末剪辑和学习。<br>【双皮奶】、【老鼠粄】、【卤鸭货】</p>
-]]></content>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉，您输入的密码错误，请检查后重新输入。" data-whm="抱歉, 当前文章不能被校验, 不过您还是可以看看解密后的内容。">
+  <script id="hbeData" type="hbeData" data-hmacdigest="b3e16cef80df8b143b6f1f11264480ce4a2cc0da4b26c9e6fbcedba33dcbcf77">322fb59090cf148115791d651d5a7dd493cee0795e30d20301eb3c4e0a14518d62c471ef2ae9809e86f3e1a2aed35100086bb6461793caabe7fe2a0ecdf0638e565d787597775b0848275fcfa98d84f0cf5bc6f37e4ecfc9065914f52f206d926cc303d4a8ae04322116fec1cb140b22e603584c70612eff3f0edaadcd75b842a4d846dca8fe7bc644e04a8c2eec3f7a6f6f9eb743561e7ad9951a6dee0e743cf27d2830f9fa225499949b95896f6c9b7fb494d681d77bcbe16bdda64e1ad1b6cbd0c8ad3455d3c7c65834d228124c9bda26c5749bb1e05402f0caea107310b7d5a0980c9e73a5e95019f0122b56008d7976e154ca76d5d805ada59384e2c7db88f47f600c22cb93d598c19dc55232cc79cb05bb738ac8225e1833f96473b3dcbd88fe815cbdec456daf029fb4c82d7dfedee24168a20471f329817a3a65fcc596031b1a2cd66fd958c9b128a55886e989d856b724fabd7721829e4502732fd1ffe8672f7360b8cb76d7f0c5df9b682a04348986095557d1669470b03a34044025321f6c2fcd27da71dd9f9bb9cff6a2af3ee2eb0709d8b0e55a9ace468c7aa6187e9c9ab61bce624e285e8ae0c84da0d74e9231801e42abafec06a3f2cf84b89f96d94fe5368be802ad996a3d03a6e8821e13c51372c2bc9beef36eb2a31dfc81ace3d21f66aa83ab623eca7b59ef0a79f51a72a941e356ccfa4c8a726f3daea4200ec2db547a4ec36b91eede34e1ad28430e16158f40b8605635de3f4fec0bc81ae8139ba07da39f06b70bfac0d0ce8098bff8126b6115d2676c0e22d6895ee6af42e16cb229dfb0749637e26d43451c189bb4e42ee80e37ebc7a7c01837d8c04bc7d0008b83179170dcb17b4807669579360ef61438c4ca82a2a98eaf818eed0568b53f205f2a1dd3cb334e7f19fd5c2aefed56ca85fc0a14238d271f98fb606aaffbef74f8779752741eccf540cb0ffa9be5683ab9e689e59b05b38b4e640d0926f00ffc5d63489e213d3b63d9f2665596fd06571fa6eafa1b5d547b86c9afc9d5432844c3d9bddf1e7606c08879097274e05092f44d0cb862b849e957d07be8a4274402a25cca933dc8047abbf31d6ae123953e95dfc2224c746ce90c487dba6dbf11649ae175e79c30d374b695f831d6d3c0f13aad758625f7755da48abb710dd45c9620e45d3a9a5ff6d6c56ebff346290983aa5a91b7cabd8845e1dfcf6cbda9c577f932542c27875e3642adfb4164fe6d99a74f497dc7d2fdc727b9ae3e500798609bd09e309b6f8ea29f23322d92ee9a90988e083bbaf442c643e5972857c51b0497e39e3694239b54bbb8f20c99884e04be71f4834ed727ba530a99075085bb411af7a8b558300c57626874d53eaa57a6d5fd7ce8a40e5f8178b347c9bd94731d07bd0eea8643256bb975e57460f99cb7931804ca3bb286fcdea46fc8c6dc13d03b61535885ab0342f826f730c0ba01e8106caedabc25986ead72634e825924be0e5548471ccb359c3190bb93b62ec287a39ef710a88e9bb699046aae7724d4304953252b4502748318cc50d03e819b61a820c1f3aad5620447db7d5c8d2a58caa5f7ccda7e0a45a287ee97fa9c04e2f1e7a56c6fab3b234f7eaa4b9529a210101c40f29624328ee2aa48c6f2a346cb2579913654384ffe90b5af9ed6a7bcd1035cdbe0211a0a80594d70576be72bca4f9db3f2fa8a7857980c405216db698f46f845d4d28f35a077e46addced07922e079b24a81db033fe13ce4598851a2de92528dd460cde8c6687fc2206bc837f3972184abe9c3a64214b2b07f4df891ca8b33d8179092dcb3f9b51f55df839c8f60f73b3178dfbc964f54fb81fcd9b7498fc54f2acbb69d2769bca4e92c62036e4ab31493cd90cbb9e9c90182c88babd3340b56c8410f6fab8d2b7925d396eb350967cdeb62193b80cd5221eae3ee98ec0581b8f88c1f31d71e6f59968a6194946f4ea6a51bca5217fdb3fa9b2a04f162b29d6ea348f932191b1e0d50ee363eed9f3c95e81bedc38fada12fb65f142114c7a53aaa92d8f8e45cfffe83269a6f1ada558580085688fd92ffeb5eabc78bbf30102aad7360388e87a3c9ae4eadfa095c9cfbc1a806db48f9cf7ef63c7c9df8309266242d7074f7f597ec0ae23dc19283ebfcddee2df86cf94deee0d91a68de2839748dcf47d2ef29acd857a3effe80df3be78ebf2ad3ed4f64467b9abeedd0a5c6a2811f3b7e289434fb5277aca59680e43f718349e8e4340aa42240dd7fc8e63c41521bad8c3dee5ad3181e403c06610ab7e52bd1ee83bbf00228c048a26ad59a5c457ea930c9999ffb33e775455975a6904c890fb93a55c3b8a628b75e8f6b34089d282318e4501646ab58e2ed18e6018719f66d49f49508f1b76c3f8b836312604f54cfdac75039a8a71029c9aa27890ab04dacfc4d6a2007442edae331e25df23c51a1dc0e566aaa98885ec207bbc76234c1f938c2a4ed75f1d5a82f3422aab36ceb335131992bc43b5ee943f0fdb1da02b99dbf4c1e50eb085b3ff89af688b73f0fcacabca2718d90a9e8872c0f2cfd032c3287eb5c15a118264c656235e0d3267200a5758351be824ca6b7d4161e4ae074fe8237a24dea527c73c709ba960a5d1fc4a925598cd4fbb06730e1356c36f33fc1a7d998d307cd214323af1b5c74844fa26b33773efae15b3e1f1f90d8b992ffd1df51510c54a4f97c328602a15d51022c9e4969e45eb689f1cb3256919042a572a8b7971d365582f551c50d796f98f1e5b35df7f2109c41f103528530fa76d401ec76d48095ed67b7d52a032ddd4fb4c4d270f33a81600d9aa7ab38bd30c1d54a13be9dd36153ee76729900e6ba4ce1952d89502c22</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">当前文章暂不对外可见，请输入密码后查看！</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>随笔日志</category>
       </categories>
+      <tags>
+        <tag>diary</tag>
+      </tags>
   </entry>
 </search>

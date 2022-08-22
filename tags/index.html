@@ -81,11 +81,13 @@
 
 <meta name="description" content="将改造自己进行到底">
 <meta property="og:type" content="website">
-<meta property="og:title" content="小美的博客">
-<meta property="og:url" content="http://example.com/tags/%E6%97%A5%E8%AE%B0/index.html">
+<meta property="og:title" content="tags">
+<meta property="og:url" content="http://example.com/tags/index.html">
 <meta property="og:site_name" content="小美的博客">
 <meta property="og:description" content="将改造自己进行到底">
 <meta property="og:locale" content="zh_TW">
+<meta property="article:published_time" content="2022-08-22T09:24:43.000Z">
+<meta property="article:modified_time" content="2022-08-22T09:25:20.274Z">
 <meta property="article:author" content="小美">
 <meta name="twitter:card" content="summary">
 
@@ -117,13 +119,13 @@
 
 
 
-  <link rel="canonical" href="http://example.com/tags/日记/"/>
+  <link rel="canonical" href="http://example.com/tags/"/>
 
 
 
 
 
-  <title>標籤: 日记 | 小美的博客</title>
+  <title>tags | 小美的博客</title>
   
 
 
@@ -142,7 +144,7 @@
     
   
 
-  <div class="container sidebar-position-left ">
+  <div class="container sidebar-position-left page-post-detail">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -290,54 +292,43 @@
           <div id="content" class="content">
             
 
-  
-  
-  
-  <div class="post-block tag">
+  <div id="posts" class="posts-expand">
+    
+    
+    
+    <div class="post-block page">
+      <header class="post-header">
 
-    <div id="posts" class="posts-collapse">
-      <div class="collection-title">
-        <h1>日记<small>標籤</small>
-        </h1>
-      </div>
+	<h1 class="post-title" itemprop="name headline">tags</h1>
+
+
+
+</header>
 
       
+      
+      
+      <div class="post-body">
         
-
-  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <h2 class="post-title">
         
-            <a class="post-title-link" href="/2022/08/12/%E8%9C%95%E5%8F%98%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/" itemprop="url">
-              
-                <span itemprop="name">将改造自己进行到底</span>
-              
-            </a>
+          <div class="tag-cloud">
+            <div class="tag-cloud-title">
+                目前共計 1 個標籤
+            </div>
+            <div class="tag-cloud-tags">
+              <a href="/tags/diary/" style="font-size: 12px; color: #ccc">diary</a>
+            </div>
+          </div>
         
-      </h2>
-
-      <div class="post-meta">
-        <time class="post-time" itemprop="dateCreated"
-              datetime="2022-08-12T10:36:28+08:00"
-              content="2022-08-12" >
-          08-12
-        </time>
       </div>
-
-    </header>
-  </article>
-
-
+      
+      
       
     </div>
-
+    
+    
+    
   </div>
-  
-  
-  
-
-  
 
 
           </div>
@@ -345,6 +336,10 @@
 
 
           
+
+  
+
+
 
         </div>
         
@@ -369,6 +364,10 @@
       <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/avatar.gif"
+                alt="" />
             
               <p class="site-author-name" itemprop="name"></p>
               <p class="site-description motion-element" itemprop="description"></p>
@@ -402,10 +401,10 @@
               
               
               <div class="site-state-item site-state-tags">
-                
-                  <span class="site-state-item-count">2</span>
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">1</span>
                   <span class="site-state-item-name">標籤</span>
-                
+                </a>
               </div>
             
 
@@ -482,6 +481,20 @@
     }
 setInterval("createtime()",250);
 </script>
+
+<div class="translate-style">
+  繁/簡：<a id="translateLink" href="javascript:translatePage();">繁體</a>
+</div>
+  <script type="text/javascript" src="/js/tw_cn.js"></script>
+  <script type="text/javascript">
+    var defaultEncoding = 2; //網站編寫字體是否繁體，1-繁體，2-簡體
+    var translateDelay = 0; //延遲時間,若不在前, 要設定延遲翻譯時間, 如100表示100ms,默認為0
+    var cookieDomain = "https://tding.top/"; //Cookie地址, 一定要設定, 通常為你的網址
+    var msgToTraditionalChinese = "繁體"; //此處可以更改為你想要顯示的文字
+    var msgToSimplifiedChinese = "簡體"; //同上，但兩處均不建議更改
+    var translateButtonId = "translateLink"; //默認互換id
+    translateInitilization();
+  </script>
         
 <div class="busuanzi-count">
   <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
@@ -605,6 +618,10 @@ setInterval("createtime()",250);
 
 
   
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
 
   
 
